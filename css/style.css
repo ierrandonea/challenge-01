@@ -1,0 +1,68 @@
+
+.image-front {
+    width: 60%;
+}
+
+
+
+.fa-shopify {
+    transform: scale(1.5);
+    position: absolute;
+    margin-right: 80px;
+    margin-top: 2px;
+}
+
+
+
+.background-img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    z-index: 0;
+    width: 95.4%;
+    height: 60%;
+}
+
+.mx-8 {
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.btn-primary {
+    background: #5C6AC4;
+}
+
+.text-main {
+    color: #5C6AC4;
+}
+
+
+
+
+
+
+
+.w-sutom-1 {
+    width: 400px;
+}
+
+.w-custom-2 {
+    width: 65%;
+}
+
+.w-custom-3 {
+    width: 30%;
+}
+
+
+
+
+
+.to-place::after {
+    border-top: 5px solid #000;
+    width: 75%;
+    margin: auto;
+    
+}
